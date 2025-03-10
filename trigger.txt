@@ -1,1 +1,1 @@
-ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/nyep/squid:latest
+nginx:latest registry.cn-hangzhou.aliyuncs.com/nyep/nginx:latest
