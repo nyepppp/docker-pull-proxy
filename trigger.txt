@@ -1,1 +1,1 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/nyep/nginx:latest
+langgenius/dify-sandbox:0.2.1 registry.cn-hangzhou.aliyuncs.com/nyep/dify-sandbox:0.2.1
