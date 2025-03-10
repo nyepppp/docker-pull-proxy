@@ -1,1 +1,1 @@
-langgenius/dify-api:lastest registry.cn-hangzhou.aliyuncs.com/nyep/dify-api:lastest
+langgenius/dify-api:0.15.3 registry.cn-hangzhou.aliyuncs.com/nyep/dify-api:0.15.3
