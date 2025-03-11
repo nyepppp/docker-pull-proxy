@@ -1,1 +1,1 @@
-1panel/maxkb registry.cn-hangzhou.aliyuncs.com/nyep/1panel/maxkb
+1panel/maxkb registry.cn-hangzhou.aliyuncs.com/nyep/maxkb
