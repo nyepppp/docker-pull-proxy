@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.1 registry.cn-hangzhou.aliyuncs.com/nyep/dify-sandbox:0.2.1
+1panel/maxkb registry.cn-hangzhou.aliyuncs.com/nyep/1panel/maxkb
