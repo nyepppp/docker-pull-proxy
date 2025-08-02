@@ -1,1 +1,1 @@
-eosphorosai/dbgpt registry.cn-hangzhou.aliyuncs.com/nyep/maxkb
+eosphorosai/dbgpt registry.cn-hangzhou.aliyuncs.com/nyep/dbgpt
