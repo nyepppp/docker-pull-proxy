@@ -1,1 +1,1 @@
-eosphorosai/dbgpt registry.cn-hangzhou.aliyuncs.com/nyep/dbgpt
+feather2dev/paper-burner-x registry.cn-hangzhou.aliyuncs.com/nyep/paper-burner-x
