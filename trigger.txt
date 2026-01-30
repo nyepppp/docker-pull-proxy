@@ -1,1 +1,1 @@
-ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/nyep/squid
+library/busybox:latest registry.cn-hangzhou.aliyuncs.com/nyep/busybox
