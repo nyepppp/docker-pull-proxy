@@ -1,1 +1,1 @@
-feather2dev/paper-burner-x registry.cn-hangzhou.aliyuncs.com/nyep/paper-burner-x
+library/nginx:latest registry.cn-hangzhou.aliyuncs.com/nyep/nginx
