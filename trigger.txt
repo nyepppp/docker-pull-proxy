@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon registry.cn-hangzhou.aliyuncs.com/nyep/busybox
+langgenius/dify-plugin-daemon:0.5.2-local registry.cn-hangzhou.aliyuncs.com/nyep/dify-plugin-daemon
